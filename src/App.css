@@ -1,0 +1,20 @@
+    body {
+        background-color: #613D0A;
+        color: white;
+    }
+    
+    .thumbnail {
+        background-color: #885e1f;
+    }
+    
+    .alert {
+        background-color: #B8CC00;
+    }
+    
+    .btn-primary {
+        background-color: #EF6610;
+    }
+    
+    .color {
+        color: white;
+    }
