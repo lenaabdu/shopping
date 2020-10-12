@@ -1,0 +1,91 @@
+{
+    "products": [{
+            "id": 1,
+            "sku": 18644119330491310,
+            "title": "Fruit Print Dress",
+            "description": "Fruit Print V-Neck Midi Slip Dress",
+            "availableSizes": ["X", "L", "XL", "XXL"],
+            "price": 10,
+            "isFreeShipping": true
+        },
+
+        {
+            "id": 2,
+            "sku": 11854078013954528,
+            "title": "Pure Cotton Dress",
+            "description": "Pure Cotton Floral Maxi Dress",
+            "availableSizes": ["X", "M", "L"],
+            "price": 14.9,
+            "isFreeShipping": true
+        },
+
+        {
+            "id": 3,
+            "sku": 876661122392077,
+            "title": "Round Neck Dress",
+            "description": "Round Neck Midi Fit & Flare Dress",
+            "availableSizes": ["X", "M", "L"],
+            "price": 14.9,
+            "isFreeShipping": true
+        },
+
+        {
+            "id": 4,
+            "sku": 9197907543445677,
+            "title": "Printed Yoke Dress",
+            "description": "Printed Yoke Midaxi Waisted Dress",
+            "availableSizes": ["XL"],
+            "price": 25.9,
+            "isFreeShipping": false
+        },
+
+        {
+            "id": 5,
+            "sku": 10547961582846888,
+            "title": " V - Neck Midi Wrap Dress ",
+            "description": "Fern Print V-Neck Midi Wrap Dress",
+            "availableSizes": ["X", "L", "XL"],
+            "price": 10.9,
+            "isFreeShipping": false
+        },
+
+        {
+            "id": 6,
+            "sku": 6090484789343891,
+            "title": "V-Neck Midi Wrap Dress",
+            "description": "Crepe Floral V-Neck Midi Wrap Dress",
+            "availableSizes": ["XL", "XXL"],
+            "price": 49.9,
+            "isFreeShipping": false
+        },
+
+        {
+            "id": 7,
+            "sku": 18532669286405342,
+            "title": "Striped Sleeveless Dress",
+            "description": "Striped Sleeveless Midi Slip Dress",
+            "availableSizes": ["S"],
+            "price": 22.5,
+            "isFreeShipping": true
+        },
+
+        {
+            "id": 8,
+            "sku": 5619496040738316,
+            "title": "Floral Print Midi Swing Dress",
+            "description": "Floral Print V-Neck Midi Swing Dress",
+            "availableSizes": ["XL"],
+            "price": 18.7,
+            "isFreeShipping": false
+        },
+        {
+            "id": 9,
+            "sku": 11600983276356165,
+            "title": "Floral Belted  Dress",
+            "description": "Floral Belted Midi Shirt Dress",
+            "availableSizes": ["L", "XL"],
+            "price": 134.9,
+            "isFreeShipping": true
+        }
+    ]
+}

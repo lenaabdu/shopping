@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/shopping/static/css/main.15368248.chunk.css",
+    "main.js": "/shopping/static/js/main.ba1de7dd.chunk.js",
+    "main.js.map": "/shopping/static/js/main.ba1de7dd.chunk.js.map",
+    "runtime-main.js": "/shopping/static/js/runtime-main.d5c916ff.js",
+    "runtime-main.js.map": "/shopping/static/js/runtime-main.d5c916ff.js.map",
+    "static/js/2.0d495b36.chunk.js": "/shopping/static/js/2.0d495b36.chunk.js",
+    "static/js/2.0d495b36.chunk.js.map": "/shopping/static/js/2.0d495b36.chunk.js.map",
+    "index.html": "/shopping/index.html",
+    "precache-manifest.8935f0a913b9416c1157050dde15d76f.js": "/shopping/precache-manifest.8935f0a913b9416c1157050dde15d76f.js",
+    "service-worker.js": "/shopping/service-worker.js",
+    "static/css/main.15368248.chunk.css.map": "/shopping/static/css/main.15368248.chunk.css.map",
+    "static/js/2.0d495b36.chunk.js.LICENSE.txt": "/shopping/static/js/2.0d495b36.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d5c916ff.js",
+    "static/js/2.0d495b36.chunk.js",
+    "static/css/main.15368248.chunk.css",
+    "static/js/main.ba1de7dd.chunk.js"
+  ]
+}
